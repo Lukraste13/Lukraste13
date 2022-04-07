@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Lukraste
-- 👀 I’m interested in creating Discord themes using BetterDiscord.
+
+
 
 <!---
 Lukraste13/Lukraste13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
